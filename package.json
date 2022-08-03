@@ -1,0 +1,25 @@
+{
+  "name": "create-a-readme",
+  "version": "1.0.0",
+  "description": "An application to create a professional read.md file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffryLangford/create-a-readme.git"
+  },
+  "author": "Jeffry Langford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffryLangford/create-a-readme/issues"
+  },
+  "homepage": "https://github.com/JeffryLangford/create-a-readme#readme",
+  "dependencies": {
+    "inquirer": "^9.0.2"
+  },
+  "keywords": [
+    "READ.md"
+  ]
+}
